@@ -52,7 +52,7 @@ The dashboard helps users explore weather information through interactive city s
 
 ## ▶️ Video Demonstration
 
-Watch the dashboard demonstration: **[[Add Your Video Link Here](https://www.linkedin.com/posts/rudreshwar-lodhi_powerbi-dataanalytics-dashboarddevelopment-ugcPost-7518537864754806784-jfiz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZC-S8BpwFzQUeKb14YPViM5rAh2lZlUB0)]**
+Watch the dashboard demonstration: **[[Here is a video](https://www.linkedin.com/posts/rudreshwar-lodhi_powerbi-dataanalytics-dashboarddevelopment-ugcPost-7518537864754806784-jfiz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEZC-S8BpwFzQUeKb14YPViM5rAh2lZlUB0)]**
 
 ## 🚀 How to Use
 
